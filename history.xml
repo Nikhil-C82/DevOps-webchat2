@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<messages>
+<message id="4595854082">
+<senderName>Gennady</senderName>
+<messageText>Hello!!</messageText>
+<sendDate>24-04-2015, 18:40:02</sendDate>
+<modifyDate>not modified</modifyDate>
+<isDeleted>false</isDeleted>
+</message>
+<message id="9173302257">
+<senderName>Gennady</senderName>
+<messageText>How are you?</messageText>
+<sendDate>24-04-2015, 18:40:08</sendDate>
+<modifyDate>not modified</modifyDate>
+<isDeleted>false</isDeleted>
+</message>
+<message id="9591595258">
+<senderName>Gennady</senderName>
+<messageText>I'm fine and you?</messageText>
+<sendDate>24-04-2015, 18:40:30</sendDate>
+<modifyDate>not modified</modifyDate>
+<isDeleted>false</isDeleted>
+</message>
+<message id="7498101052">
+<senderName>Gennady</senderName>
+<messageText>I'm too.</messageText>
+<sendDate>24-04-2015, 18:40:40</sendDate>
+<modifyDate>not modified</modifyDate>
+<isDeleted>false</isDeleted>
+</message>
+<message id="2759185720">
+<senderName>Gennady</senderName>
+<messageText>It is good=)</messageText>
+<sendDate>24-04-2015, 18:41:50</sendDate>
+<modifyDate>not modified</modifyDate>
+<isDeleted>false</isDeleted>
+</message>
+<message id="3979128704">
+<senderName>Tester</senderName>
+<messageText>Test....</messageText>
+<sendDate>24-04-2015, 18:42:10</sendDate>
+<modifyDate>not modified</modifyDate>
+<isDeleted>false</isDeleted>
+</message>
+</messages>

@@ -1,0 +1,44 @@
+.page {
+    background: #D4E3FC;
+    text-align: center;
+    margin: 0;
+}
+.page-head {
+    background: url("../images/header.png") #C0C0C0;
+    width: 100%;
+    min-width: 350px;
+    height: 5em;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    position: relative;
+    -webkit-user-select: none;
+}
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.picture {
+    margin-top: 50px;
+    text-align: center;
+}
+.header {
+    margin-top: 40px;
+    text-align: center;
+    font: bold 54px Georgia, Times, serif;
+    color: #333;
+    line-height: 90%;
+    letter-spacing: -2px
+}
+.paragraph {
+    margin-top: 40px;
+    text-align: center;
+    color: #647283;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 25px;
+}
+.footer {
+    margin: 40px;
+    text-align: center;
+    font-size: 18px
+}

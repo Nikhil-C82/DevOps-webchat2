@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MyChat</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+    <script src = "resources/js/libs/jquery.min.js"></script>
+    <script src = "resources/js/scripts.js"></script>
+</head>
+<body class="page" onload="run();">
+<div class="page-head">
+    <div class="head-wrapper">
+        <div class="head-logo">
+            <img src="resources/images/logo.png" alt="MyChat">
+        </div>
+        <div class="indication-circle" title="server indication"></div>
+    </div>
+</div>
+<div class="wrapper">
+    <div class="sign">
+        <input id="sign-name" type="text" maxlength="25">
+        <button id="sign-in" class="chat-button sign-button">Sign in</button>
+    </div>
+    <div class="chat-box"></div>
+    <button class="chat-button box-scroll">&#8595; Down</button>
+    <div class="send-message">
+        <textarea id="message-text" class="send-message message-text" disabled>You should to sign in!</textarea>
+        <button id="send-button" class="send-message chat-button send-button" disabled>Send</button>
+    </div>
+</div>
+<div class="footer">Gennady Trubach © 2015</div>
+</body>
+</html>
